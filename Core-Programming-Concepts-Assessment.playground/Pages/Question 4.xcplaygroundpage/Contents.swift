@@ -23,7 +23,13 @@
  
  */
 // Answer question 4 below
-
+var appNumber : Int
+print("The number of apps is expected to stay as an integer as there cannot be part apps.")
+var screenOnTime : Double
+print("The number of hours a screen is on needs to be stored as a double because the hours that the screen is on is not always a whole number.")
+var mostPopularApp : String
+var currentDate : String
+print("The name of the most popular app should be stored as a string as it contains letters. The current date can be possibly stored as an Int or Double, but it must be stored as a date in its current state as it contains letters.")
 /*:
  ## Now share your understanding
  
