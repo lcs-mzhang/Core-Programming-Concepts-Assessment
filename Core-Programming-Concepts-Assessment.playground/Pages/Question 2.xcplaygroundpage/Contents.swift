@@ -24,6 +24,16 @@
  
  */
 // Answer question 2 below
+let bookName : String
+let authorName : String
+let yearPublished : Int
+
+print("Information that is not expected to change such as names or dates should be set as constants.")
+
+var copiesSold : Int
+var sellingPrice : Double
+
+print("The number of copies sold is expected to constantly change, so it should be set as a variable. The selling price may also chance, albeit infrequently, but should be set to a variable as well. ")
 
 /*:
  ## Now share your understanding
