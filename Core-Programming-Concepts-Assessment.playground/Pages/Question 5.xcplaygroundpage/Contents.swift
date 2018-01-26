@@ -3,8 +3,8 @@
  ### Learning Goal
  
  * Programming: Goal 5
-    * *Knowledge*
-        * I can write concise statements using Boolean operators or pattern matching to check for multiple conditions.
+ * *Knowledge*
+ * I can write concise statements using Boolean operators or pattern matching to check for multiple conditions.
  
  # Question 5
  
@@ -17,10 +17,10 @@
  **Write an `if` statement that will print `We're open!` when conditions are suitable, or, `We're closed.` in all other cases.**
  
  - note:
-    You'll need to adjust the value of the constants immedidately below to test your code thoroughly.
+ You'll need to adjust the value of the constants immedidately below to test your code thoroughly.
  */
 let newSnowfallAmount = 11
-let temperatureInCelsius = -4
+let temperatureInCelsius = -6
 let isSnowMakingEquipmentBroken = true
 
 // Answer question 5 below
@@ -45,8 +45,8 @@ else
  ### Learning Goal
  
  * Programming: Goal 5
-    * *Knowledge*
-        * I can write concise statements using Boolean operators or pattern matching to check for multiple conditions.
+ * *Knowledge*
+ * I can write concise statements using Boolean operators or pattern matching to check for multiple conditions.
  
  [Next](@next)
  */
